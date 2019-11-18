@@ -17,3 +17,14 @@ Arrival in Electrum: 10:00
 - NumPy refresher (15m)
 
 Left Electrum at 16.
+
+## Monday, November 18
+
+Started the week by replying to emails and discussion posts related to ID2222. Arrived around 13.
+Theo is giving a talk in Big Things Conference so we didn't have the weekly EE-LC-KTH standup.
+
+- Went through Sana's selected papers for today's session of [the reading course](https://github.com/dcatkth/readinggroup/#papers-and-schedule). The broader topic is distributed privacy preserving machine learning.
+- Participating in the reading course session (2h)
+- Going through [Supporting Very Large Models using Automatic Dataflow Graph Partitioning](https://arxiv.org/abs/1807.08887) for tomorrow (2h)
+
+Left Electrum at 21.
