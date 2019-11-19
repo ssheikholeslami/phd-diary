@@ -28,3 +28,18 @@ Theo is giving a talk in Big Things Conference so we didn't have the weekly EE-L
 - Going through [Supporting Very Large Models using Automatic Dataflow Graph Partitioning](https://arxiv.org/abs/1807.08887) for tomorrow (2h)
 
 Left Electrum at 21.
+
+## Tuesday, November 19
+
+Today is dedicated to the [Tofu](https://arxiv.org/abs/1807.08887) paper.
+
+Arrival: 9:20
+Doing Pomodoro as of today.
+
+- Tofu paper (6.5 p)
+
+Couldn't concentrate on work after 15 because of the situation in Iran.
+Tomorrow I'm fully booked for [ID2222](https://www.kth.se/social/course/id2222/) HW2 presentations.
+
+Departure: 19:45
+
