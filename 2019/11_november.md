@@ -50,3 +50,14 @@ Arrival: 8:30
 - ID2222 HW2 presentations (7h)
 
 Departure: 17:00 (left for WiDS Meetup @ King)
+
+
+## Thursday, November 21
+
+Arrival: 12
+
+- DS Lunch Seminar (1h)
+- Extreme Earth Bi-weekly call and follow up with Vlad (1h)
+- FOSDEM Devroom proposal preparation (2h)
+
+Departure: 19:30
