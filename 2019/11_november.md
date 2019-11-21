@@ -43,3 +43,10 @@ Tomorrow I'm fully booked for [ID2222](https://www.kth.se/social/course/id2222/)
 
 Departure: 19:45
 
+## Wednesday, November 20
+
+Arrival: 8:30
+
+- ID2222 HW2 presentations (7h)
+
+Departure: 17:00 (left for WiDS Meetup @ King)
