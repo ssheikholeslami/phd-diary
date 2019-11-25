@@ -58,6 +58,17 @@ Arrival: 12
 
 - DS Lunch Seminar (1h)
 - Extreme Earth Bi-weekly call and follow up with Vlad (1h)
-- FOSDEM Devroom proposal preparation (2h)
+- FOSDEM Devroom proposal (2h)
 
 Departure: 19:30
+
+## Friday, November 22
+
+Arrival: 10
+
+- Weekly meeting with Vlad (45m)
+- Extra EE meeting with Theo (1h)
+- Tofu
+- FOSDEM Devroom proposal + ablation (2h)
+
+Departure: 18
