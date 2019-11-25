@@ -72,3 +72,16 @@ Arrival: 10
 - FOSDEM Devroom proposal + ablation (2h)
 
 Departure: 18
+
+## Monday, November 25
+
+*I'll be away from Tuesday to the end of the week*.
+
+Arrival: 8:15
+
+- Tofu (3p)
+- EE LC+KTH Meeting (1h30m)
+- Work on the EO deliverable (1p)
+- Reading course (2h)
+
+Departure: 18:30
