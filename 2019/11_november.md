@@ -85,3 +85,8 @@ Arrival: 8:15
 - Reading course (2h)
 
 Departure: 18:30
+
+## Tuesday, November 26
+
+Out of Stockholm. Read a bit about the inner design of Keras.
+v2.3 is its last multi-backend version so it got me thinking.
