@@ -90,3 +90,9 @@ Departure: 18:30
 
 Out of Stockholm. Read a bit about the inner design of Keras.
 v2.3 is its last multi-backend version so it got me thinking.
+
+## Wednesday, November 27
+
+Out of Stockholm.
+
+- Remote work with Tianze for EE deliverable (debugging maggy optimizer demo + bugfix for maggy ablation) (3h)
