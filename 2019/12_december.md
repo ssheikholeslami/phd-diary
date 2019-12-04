@@ -15,8 +15,19 @@ Left Electrum at 19:15.
 
 Arrival: 10:15
 
-- Tianze's ID2222 GAN Lecture (1.5h)
-- Preparation for ID2221 HW4 (3h)
+- Tianze's ID2223 GAN Lecture (1.5h)
+- Preparation for ID2222 HW4 (3h)
 - Meeting with Marina (1h)
 
 Left Electrum at 18:15.
+
+## Wednesday, December 4
+
+ID2222 HW4 Day.
+
+Arrival: 8:45
+
+- ID2222 HW4 presentations (7h)
+- Meeting with Davide (1h)
+
+Departure: 19:00
