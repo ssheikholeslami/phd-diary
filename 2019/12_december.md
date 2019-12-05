@@ -40,5 +40,6 @@ Arrival: 13:15
 
 - SCS/TCS Christmas lunch (3h)
 - Work on ablation paper (3h)
+- Grading ID2222 HW1 and HW4 (1h)
 
 Departure: 20:40
