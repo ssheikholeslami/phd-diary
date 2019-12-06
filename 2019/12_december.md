@@ -43,3 +43,17 @@ Arrival: 13:15
 - Grading ID2222 HW1 and HW4 (1h)
 
 Departure: 20:40
+
+# Friday, December 6
+
+I was in the main campus till 12 for Shahab's defense.
+
+Arrival: 13:15
+
+- Ahmed & Lodovico's presentation rehearsal (30m)
+- Hopsworks UX Interview (45m)
+- ID2222 HW4 Exceptional timeslots (30m)
+- Supervision (1h)
+- Ablation paper (1h)
+
+Departure: 18:30
