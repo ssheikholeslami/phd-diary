@@ -57,3 +57,12 @@ Arrival: 13:15
 - Ablation paper (1h)
 
 Departure: 18:30
+
+# Monday, December 9
+
+Arrival: 11:15
+
+- ID2222 HW presentations (1h)
+- Supervision (3h)
+
+Departure: 19:00
