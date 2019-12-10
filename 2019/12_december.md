@@ -66,3 +66,13 @@ Arrival: 11:15
 - Supervision (3h)
 
 Departure: 19:00
+
+# Tuesday, December 10
+
+Arrival: 10:15
+
+- Supervision (2h)
+- ID2222 HW presentations (1h)
+- EIT Digital Innovation Day 2019
+
+Departure: 18:00
