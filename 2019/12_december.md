@@ -76,3 +76,12 @@ Arrival: 10:15
 - EIT Digital Innovation Day 2019
 
 Departure: 18:00
+
+# Wednesday, December 11
+
+Arrival: 9:00
+
+- ID2222 HW presentations (8h)
+- Dask intro
+
+Departure: 20:30
