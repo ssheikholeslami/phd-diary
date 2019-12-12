@@ -85,3 +85,11 @@ Arrival: 9:00
 - Dask intro
 
 Departure: 20:30
+
+# Thursday, December 12
+
+Arrival: 9:15
+
+- ID2222 HW presentations (5h)
+
+Departure: 16:20
